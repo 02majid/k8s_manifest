@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: docker.io/02majid/test12:56
+          image: docker.io/02majid/test12:57
           ports:
             - containerPort: 80
 ---
